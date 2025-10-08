@@ -9330,3 +9330,16 @@ span {
   opacity: 1;
   visibility: visible;
 }/*# sourceMappingURL=main.css.map */
+.site-logo {
+    font-size: 32px;       /* Adjust as needed */
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.logo-white {
+    color: #ffffff;        /* White */
+}
+
+.logo-red {
+    color: #d12300;        /* Your provided red */
+}
